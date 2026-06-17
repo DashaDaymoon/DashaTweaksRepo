@@ -3,7 +3,7 @@
     "Author": "Dasha",
     "Name": "DashaTweaks",
     "InternalName": "DashaTweaks",
-    "AssemblyVersion": "0.3.1.0",
+    "AssemblyVersion": "0.3.2.0",
     "Punchline": "Quality-of-life tweaks: hotbar audit, submarine routes, craft-leve hand-ins, and glamour sync.",
     "Description": "A growing collection of FFXIV quality-of-life tweaks, each in its own settings tab:\n\n- Hotbar Helper: when you open Actions & Traits, scans your hotbars against your current job and shows any actions or role actions you haven't slotted anywhere — then drag an icon straight onto a hotbar slot to assign it.\n- Submarines: FC submarine status with per-sub EXP bars, plus a tabbed voyage route planner — EXP/hour levelling routes (with fuel cost), exploration routes that reveal the most still-undiscovered locations, and gil-farming routes (per-sub gil/hour, build and rank requirements) — with one-click apply, optional unlock-progression routing, and auto-repair.\n- Leves: automated craft (tradecraft) leve hand-ins — pick a leve, stand at the counter, and it accepts and turns in until your allowance floor or items run out.\n- Glamour Sync: keeps a gear set's portrait matching its gear — after a glamour plate, a job change, or equipping Recommended Gear — so the \"portrait doesn't match\" warning stays gone.",
     "ApplicableVersion": "any",
